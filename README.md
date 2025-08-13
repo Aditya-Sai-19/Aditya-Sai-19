@@ -1,81 +1,156 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/levinhkh/levinhkh/main/top-img/top-img-1.gif" alt="Welcome Banner" width="100%"/>
+</p>
+
+<h1 align="center">Hi there, I'm <b>Kolapalli Aditya Sai</b> 👋</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=19F7E5&background=00000000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Cybersecurity+Enthusiast;Robotics+Developer" alt="Typing Animation">
+</h3>
+
+---
+
+## 💡 About Me
+<p align="center">
+I am a results-driven Computer Science graduate specializing in <b>Artificial Intelligence, Machine Learning, and Cybersecurity</b>.  
+Passionate about developing innovative robotic systems and securing digital infrastructures.  
+Eager to contribute my technical expertise and problem-solving skills to impactful, tech-driven projects.
+</p>
+
+---
+
+## 🛠️ Tech Stack
 <div align="center">
 
-# 👋 Hi, I'm **Kolapalli Aditya Sai**  
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/><br>Python
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/><br>Java
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/><br>C
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/><br>C#
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/><br>MySQL
+</td>
+</tr>
 
-💻 *AI/ML Engineer* • 🔐 *Cybersecurity Enthusiast* • 🤖 *Robotics Tinkerer*  
+<tr>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn"/><br>scikit-learn
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/><br>Pandas
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/><br>NumPy
+</td>
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/><br>PyTorch
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS KMS"/><br>AWS KMS
+</td>
+</tr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sai-3317702a6)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aditya-Sai-19)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/K-ADITYA-SAI)
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino"/><br>Arduino
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" alt="ROS"/><br>ROS
+</td>
+<td align="center" width="100">
+<img src="assets/icons/google-colab.svg" width="40" alt="Google Colab"/><br>Google Colab
+</td>
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure Cognitive Services"/><br>Azure Cognitive Services
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Chatfuel-0B5FFF?logo=messenger&logoColor=white" width="80" alt="Chatfuel"/><br>Chatfuel
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 About Me
-I'm a **Computer Science graduate** specializing in **Artificial Intelligence, Machine Learning, and Cybersecurity**.  
-I enjoy creating robust ML models, optimizing them for performance and security, and deploying them into real-world applications.
-
-🎓 **B.Tech in CSE (AI & ML)** — Joginpally B R Engineering College *(2021–2025)*, **CGPA: 7.8**  
-💡 Passionate about **ML pipelines, model explainability, and secure AI**  
-🤝 Open to **ML Engineer / Data Scientist / AI Intern** roles
-
----
-
-## 🛠 Skills
-**Languages:** Python, Java (OOP), C, SQL  
-**AI/ML:** scikit-learn, PyTorch, CNN, LSTM, EDA, Deep Learning  
-**Cybersecurity:** Ethical Hacking, AWS KMS, Data Encryption  
-**Robotics:** Arduino, ROS  
-**Tools:** Google Colab, Azure Cognitive Services, IBM Watson, Flask
+## 📜 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20with%20PyTorch-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Computer%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Ethical%20Hacking%20%26%20AWS%20KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Chatbot%20using%20Chatfuel-0B5FFF?style=for-the-badge&logo=messenger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Skillsoft-Robotics%20%26%20Automation-E40046?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coursera-IBM%20Watson%20Business%20Assistant-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
-- **Phishing URL Detection Using ML** — Achieved **96.9% accuracy** using Random Forest, KNN, Logistic Regression, Naive Bayes.  
-  *Tech:* scikit-learn, Python  
-  *Repo:* *(link here)*
-
-- **Fake Review Detection (Hybrid CNN+LSTM + Fuzzy Logic)** — Classifies Amazon food reviews using deep learning + fuzzy logic.  
-  *Tech:* PyTorch, Flask, NLP  
-  *Repo:* *(link here)*
-
-- **IRIS Classification Web App** — Decision Tree model deployed via Flask.  
-  *Tech:* scikit-learn, Flask
-
-- **House Price Prediction** — Regression model for property price estimation.  
-  *Tech:* scikit-learn, Pandas
+## 🚀 Featured Projects
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="200"/><br/>
+        <b>Phishing URL Detection</b><br/>
+        ML classifiers (RF, KNN, LR, NB), 96.9% accuracy.<br/>
+        <i>Python, scikit-learn</i>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/><br/>
+        <b>Fake Review Detection</b><br/>
+        CNN+LSTM+Fuzzy Logic NLP app, published.<br/>
+        <i>PyTorch, Flask, NLP</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/><br/>
+        <b>IRIS Classification App</b><br/>
+        Decision Tree/LogReg model with Flask UI.<br/>
+        <i>scikit-learn, Flask</i>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/><br/>
+        <b>House Price Prediction</b><br/>
+        Regression model for property value estimation.<br/>
+        <i>scikit-learn, Pandas</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/><br/>
+        <b>Lead Generation Chatbot</b><br/>
+        Automated lead capture using Chatfuel.<br/>
+        <i>Chatfuel</i>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## 💼 Experience
-- **Content Moderator Intern** — Concentrix via Ixora Global Services *(Nov 2024 – Dec 2024)*  
-  Annotated text, image, audio, and video datasets for ML model training.
-
-- **AI Job Simulation Intern** — Cognizant (via Forage) *(Jun 2024)*  
-  Performed EDA, trained models, and presented data insights.
-
----
-
-## 🎓 Certifications
-- Deep Learning with PyTorch — Coursera  
-- Computer Vision with Azure Cognitive Services — Microsoft  
-- Foundations of Cybersecurity — Google  
-- Ethical Hacking & AWS KMS — UST  
-- IBM Watson Assistant — Coursera  
-- Robotics & Automation — Skillsoft  
-- UI/UX for Beginners — Great Learning  
-- Introduction to AI — Great Learning  
-- Google Ads for Beginners — Coursera
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=dracula"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=dracula"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-📧 **Email:** adityasai2004@gmail.com  
-🔗 **LinkedIn:** [aditya-sai-3317702a6](https://linkedin.com/in/aditya-sai-3317702a6)  
-💻 **GitHub:** [Aditya-Sai-19](https://github.com/Aditya-Sai-19)  
-🏆 **LeetCode:** [K-ADITYA-SAI](https://leetcode.com/u/K-ADITYA-SAI)
-
----
-
-<sub>✨ Minimal, professional, and built with purpose.</sub>
+<p align="center">
+  <a href="mailto:adityasai2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-sai-3317702a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/K-ADITYA-SAI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
