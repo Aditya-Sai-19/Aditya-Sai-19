@@ -159,9 +159,9 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=dracula"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
