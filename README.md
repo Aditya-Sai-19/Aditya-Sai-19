@@ -160,13 +160,13 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 ## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
+  <!-- <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
-  <br/>
+  <br/> -->
   <a href="https://git.io/streak-stats">
     <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
