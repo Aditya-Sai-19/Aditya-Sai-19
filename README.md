@@ -160,23 +160,15 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 ## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-profile-trophy.vercel.app/?username=Aditya-Sai-19&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
   <br/>
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Aditya-Sai-19">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Aditya-Sai-19">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=radical" />
-  </a>
-  <br/>
-  
-  <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
