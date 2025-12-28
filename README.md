@@ -82,19 +82,16 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/><br>FastAPI
 </td>
 <td align="center" width="100">
-<img src="https://img.shields.io/badge/Pydantic-2E3440?style=for-the-badge&logo=pydantic&logoColor=white" width="100" alt="Pydantic"/><br>Pydantic
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/LangChain-FF6B00?style=flat-square&logo=langchain&logoColor=white" width="100" alt="LangChain"/><br>LangChain
-</td>
-</tr>
-
-<tr>
-<td align="center" width="100">
 <img src="https://img.shields.io/badge/UV-FFD43B?style=flat-square&logo=python&logoColor=black" width="80" alt="UV"/><br>UV
 </td>
 <td align="center" width="100">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV"/><br>OpenCV
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Pydantic-2E3440?style=for-the-badge&logo=pydantic&logoColor=white" width="100" alt="Pydantic"/><br>Pydantic
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/LangChain-FF6B00?style=flat-square&logo=langchain&logoColor=white" width="100" alt="LangChain"/><br>LangChain
 </td>
 </tr>
 </table>
