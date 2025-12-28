@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <b>Kolapalli Aditya Sai</b> 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=19F7E5&background=00000000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Cybersecurity+Enthusiast;Robotics+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=19F7E5&background=00000000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Cybersecurity+Enthusiast;AI+ENGINEER+AT+KODRYX+AI;Robotics+Developer" alt="Typing Animation">
 </h3>
 
 ---
