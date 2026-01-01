@@ -94,6 +94,24 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 <img src="https://img.shields.io/badge/LangChain-FF6B00?style=flat-square&logo=langchain&logoColor=white" width="100" alt="LangChain"/><br>LangChain
 </td>
 </tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/><br>Matplotlib
+</td>
+<td align="center" width="100">
+<img src="images/seaborn-logo-png.png" width="40" alt="Seaborn"/><br>Seaborn
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" width="100" alt="N8N"/><br>N8N
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" width="100" alt="Streamlit"/><br>Streamlit
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Langflow-2E3440?style=flat-square&logo=langflow&logoColor=white" width="100" alt="Langflow"/><br>Langflow
+</td>
+</tr>
 </table>
 
 </div>
@@ -159,17 +177,7 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <!-- <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sai-19&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Aditya-Sai-19/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sai-19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-  <br/> -->
-  <a href="https://git.io/streak-stats">
-    <img height="170em" src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aditya-Sai-19&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 ---
