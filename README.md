@@ -112,6 +112,108 @@ Eager to contribute my technical expertise and problem-solving skills to impactf
 <img src="https://img.shields.io/badge/Langflow-2E3440?style=flat-square&logo=langflow&logoColor=white" width="100" alt="Langflow"/><br>Langflow
 </td>
 </tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png" width="40" alt="Kali Linux"/><br>Kali Linux
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40" alt="Ubuntu"/><br>Ubuntu
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/metasploit/E85E26" width="40" alt="Metasploit"/><br>Metasploit
+</td>
+<td align="center" width="100">
+<img src="https://nmap.org/images/sitelogo.png" width="40" alt="Nmap"/><br>Nmap
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40" alt="Wireshark"/><br>Wireshark
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/><br>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/><br>Redis
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white" width="80" alt="Qdrant"/><br>Qdrant
+</td>
+<td align="center" width="100">
+<img src="https://neon.com/favicon/favicon.svg" width="40" alt="Neon DB"/><br>Neon DB
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" width="80" alt="Supabase"/><br>Supabase
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" alt="Firestore"/><br>Firestore
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" alt="JIRA"/><br>JIRA
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" width="40" alt="GCC"/><br>GCC
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/><br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" width="80" alt="Ollama"/><br>Ollama
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/llama.cpp-FF6B35?style=flat-square&logo=cpp&logoColor=white" width="80" alt="llama.cpp"/><br>llama.cpp
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/MinIO-C72C4B?style=flat-square&logo=minio&logoColor=white" width="80" alt="MinIO"/><br>MinIO
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Cline-6B4FBB?style=flat-square&logo=cline&logoColor=white" width="80" alt="Cline"/><br>Cline
+</td>
+<td align="center" width="100">
+<img src="https://freebuff.com/logo-icon.png" width="40" alt="Freebuff"/><br>Freebuff
+</td>
+<td align="center" width="100">
+<img src="https://logos-world.net/wp-content/uploads/2024/10/Vercel-Logo.jpg" width="40" alt="Vercel"/><br>Vercel
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" width="80" alt="Render"/><br>Render
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Alembic-8B5CF6?style=flat-square&logo=alembic&logoColor=white" width="80" alt="Alembic"/><br>Alembic
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" alt="SQLAlchemy"/><br>SQLAlchemy
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" width="80" alt="Claude Code"/><br>Claude Code
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Opencode-5B6ABF?style=flat-square&logo=opencode&logoColor=white" width="80" alt="Opencode"/><br>Opencode
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://openclaw.ai/favicon.svg" width="40" alt="OpenClaw"/><br>OpenClaw
+</td>
+<td align="center" width="100">
+<img src="https://nousresearch.com/wp-content/uploads/2024/03/android-chrome-512x512-1-300x300.png" width="40" alt="Hermes"/><br>Hermes
+</td>
+<td align="center" width="100">
+<img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" width="40" alt="Antigravity"/><br>Antigravity
+</td>
+</tr>
 </table>
 
 </div>
